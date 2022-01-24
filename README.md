@@ -1,7 +1,7 @@
 # NUS-EE5731-Projects
 2 projects for EE5731 courses, Visual Computing, in NUS, detailed requirements are in attached PDF. Images and video resources are available by links in PDF.
 
-README for project2
+README for project2  
 This is assignment 2 for Visual Computing. 
 
 For each folder it has code and result for each part, before running code GCMex folder and its subfolder should be added to path in fear that GCMex fail to be added to path in the program. ifSome results are kept in their folder which can be checked without running the code. The results are illustrated in my project. 
