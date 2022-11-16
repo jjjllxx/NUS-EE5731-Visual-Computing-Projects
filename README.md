@@ -34,7 +34,20 @@
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/60777462/201937984-fc5daaf8-1a3a-4d78-9c39-931adc782f4e.png"><img width="385" alt="image" src="https://user-images.githubusercontent.com/60777462/201938129-256125f2-9a36-4740-b19e-8865e78bcdb8.png">
 
 # Project2  
-## Part1 Noise removal   
-## Part2 Depth from rectified stereo images  
-## Part3 Depth from stereo   
-## Part4 Depth from video    
+## Part1 Noise removal
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/60777462/202183453-3748a7b1-51c5-4ea8-8a46-9485166643c2.png"><img width="238" alt="image" src="https://user-images.githubusercontent.com/60777462/202188070-a5c2a90e-d9e2-4880-b1da-2a7df8984f5e.png"><img width="233" alt="image" src="https://user-images.githubusercontent.com/60777462/202188108-6affba98-0a9f-4541-8fea-b097de47571e.png"> 
+
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202188483-6ae8d5ef-116a-4db5-a0c5-f69da925d95f.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/60777462/202188530-bce3b883-8efa-46fa-b9c6-ee99f92801e4.png"><img width="240" alt="image" src="https://user-images.githubusercontent.com/60777462/202188564-5aa274ad-cad8-4402-8ce4-4c1ffebf3e73.png">
+
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202188958-b2887ad6-91be-467a-846d-88f5bee9bfd3.png"><img width="242" alt="image" src="https://user-images.githubusercontent.com/60777462/202189289-f9e347db-c701-4778-b16a-2711eab2e745.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202188996-2575c7cb-df95-41b1-8765-557f3759e8d0.png">
+
+## Part2 Depth from rectified stereo images
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/60777462/202190036-b7f291eb-c23f-4ba6-b033-a13160e3c01a.png"><img width="350" alt="image" src="https://user-images.githubusercontent.com/60777462/202190098-d9794073-807d-46a5-b5d5-1c57044ca024.png">
+
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/60777462/202190470-23cc7639-8828-4354-b17f-7660117940ff.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202190571-00b43a9f-a93d-462b-b49a-0b98a0dbec00.png"><img width="251" alt="image" src="https://user-images.githubusercontent.com/60777462/202190527-b79903c5-97de-491c-a062-f41b963a0329.png">
+
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191341-715c4003-ad70-4ad4-a76e-5af02fcced81.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191427-97fcfd28-7c10-49f6-94d1-8489fb588f3b.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191389-22d65a82-6b3e-4022-be01-70688fbeb12b.png">
+
+## Part3 Depth from stereo
+
+## Part4 Depth from video
