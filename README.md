@@ -49,5 +49,8 @@
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191341-715c4003-ad70-4ad4-a76e-5af02fcced81.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191427-97fcfd28-7c10-49f6-94d1-8489fb588f3b.png"><img width="245" alt="image" src="https://user-images.githubusercontent.com/60777462/202191389-22d65a82-6b3e-4022-be01-70688fbeb12b.png">
 
 ## Part3 Depth from stereo
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803419-8c624072-7e8b-42e8-963a-2a54176a624f.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803443-bba2e020-da0f-4b9c-aecf-c10a6ec40995.png">
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803481-2ad26004-5aec-4112-a9a8-58df49ba8f4a.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803512-6f00baac-50d2-49f4-b088-bc0edcee58e2.png">
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803552-c061cbb3-dbb2-4c00-8115-335a3fa63f5a.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803592-31f354ae-b532-468d-a40a-6a06af5533fa.png">
 
 ## Part4 Depth from video
