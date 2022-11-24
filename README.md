@@ -50,7 +50,18 @@
 
 ## Part3 Depth from stereo
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803419-8c624072-7e8b-42e8-963a-2a54176a624f.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803443-bba2e020-da0f-4b9c-aecf-c10a6ec40995.png">
+
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803481-2ad26004-5aec-4112-a9a8-58df49ba8f4a.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803512-6f00baac-50d2-49f4-b088-bc0edcee58e2.png">
+
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203803552-c061cbb3-dbb2-4c00-8115-335a3fa63f5a.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203803592-31f354ae-b532-468d-a40a-6a06af5533fa.png">
 
 ## Part4 Depth from video
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203805262-3663adb4-6bec-4ffc-8b25-9e4b0f833915.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203805296-17d99369-d6bb-4058-9dc0-f7c2e5ace736.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203805351-5a2dd5ee-a53c-4b22-85a4-20014000e4f8.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203805380-d8d235c7-5edb-4106-924a-cf240334e997.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203805427-d3096de8-2283-4483-8ee4-567ba150e974.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203805481-c70b8cb0-0297-4e84-bb30-15c7803bc2a6.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203805504-33e75eb6-fde9-4645-9b3d-0cc0cbb969a8.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203805585-7b5397d9-4e0a-46c6-83ea-ae2db88c4d77.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/60777462/203805613-218d38ec-9cc4-41e2-8334-d01a6f84e876.png"><img width="380" alt="image" src="https://user-images.githubusercontent.com/60777462/203805652-b2cf5440-3b6a-4a97-a33d-002d4760711d.png">
