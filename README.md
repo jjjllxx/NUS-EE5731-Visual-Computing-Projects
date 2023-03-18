@@ -1,5 +1,5 @@
 # NUS-EE5731-Projects(Visual Computing)
-2 projects for EE5731 courses, Visual Computing, in NUS, detailed requirements are in attached PDF. Images and video resources are available by links in PDF.
+Semester1 AV21/22. 2 projects for NUS EE5731 Visual Computing, detailed requirements are in attached PDF. Images and video resources are available by links in PDF.
 
 # Project1
 ## Part1 Gaussian Kernel, Sobel Kernel and Haar-like masks
