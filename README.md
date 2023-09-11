@@ -30,6 +30,7 @@ Semester1 AV21/22. 2 projects for NUS EE5731 Visual Computing, detailed requirem
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/60777462/201936964-15e8b60c-d0e6-4eb1-8c00-bd3d362d4720.png"><img width="347" alt="image" src="https://user-images.githubusercontent.com/60777462/201937008-250173f7-5f76-4e4e-bfa1-ae32fc03223b.png">
 
 ## Part7 Advanced panoramic image(orderless)
+This part refers to [AutoPanorama](https://github.com/BrandonHanx/AutoPanorama).  
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/60777462/201937931-d299f4f0-eeb2-443e-bdcd-b4f325e7e562.png"><img width="370" alt="image" src="https://user-images.githubusercontent.com/60777462/201938022-34c5cd30-952a-4fc7-b565-283ceb1737f3.png">  
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/60777462/201937984-fc5daaf8-1a3a-4d78-9c39-931adc782f4e.png"><img width="385" alt="image" src="https://user-images.githubusercontent.com/60777462/201938129-256125f2-9a36-4740-b19e-8865e78bcdb8.png">
 
